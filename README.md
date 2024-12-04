@@ -14,9 +14,9 @@
 # To do list!
 - Choose a template for my website
 - Choose the information I genuinely want to display and feel would show the best of this village, for example:
-+ Public transport routes, prices, etc.
-+ Tourist attractions
-+ How is it like living there?
-+ Anything else that could prove useful for others to know.
+ + Public transport routes, prices, etc.
+ + Tourist attractions
+ + How is it like living there?
+ + Anything else that could prove useful for others to know.
 - Make multiple versions in different languages _(latvian and english)_ so it is accessible for more people
 - ...
