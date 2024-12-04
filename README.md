@@ -4,6 +4,12 @@
 - ![image](https://github.com/user-attachments/assets/9db560ac-e376-482f-b0c1-acbee9470667)
 
 
+
+
+
+
+
+
 - Information about Mālpils pagasts:
 ![image](https://github.com/user-attachments/assets/df1f73c2-57b8-4ead-8654-8e4873b12b1e)
 
