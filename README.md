@@ -11,7 +11,7 @@
 
 
 - Information about Mālpils pagasts:
-![image](https://github.com/user-attachments/assets/df1f73c2-57b8-4ead-8654-8e4873b12b1e)
+- ![image](https://github.com/user-attachments/assets/df1f73c2-57b8-4ead-8654-8e4873b12b1e)
 
 
 
